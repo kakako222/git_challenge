@@ -1,6 +1,7 @@
 こんばんは、世界！
 こんばんは、世界！
 こんばんは、世界！
+こんばんは、世界！
 
 #１ローカルリポジトリの作成
 shibacaco@MiyachinoMacBook-Air git_challenge % mkdir git_challenge
